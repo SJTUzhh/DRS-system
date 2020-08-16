@@ -16,7 +16,7 @@ Xinran Chen, Xuanrui Hong, Shuyuan Fu, Hong Zhang, @SJTU-CSE
 
 ![硬件接线](images/硬件接线.png)
 
-软件部分封装在一个蓝牙串口APP中。该APP实现实时读取距离参数以及根据距离参数调整分辨率。软件部分相关的所有工程代码已开源，见 `/DRS-APP`。软件框架如下：
+软件部分封装在一个蓝牙串口APP中。该APP实现实时读取距离参数以及根据距离参数调整分辨率。软件部分相关的所有工程代码见 `/DRS-APP`。软件框架如下：
 
 ![软件框架](images/软件框架.jpg)
 
