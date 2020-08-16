@@ -1,6 +1,6 @@
 # **Dynamic Resolution Scaling System** 
 
-Contributors: Xinran Chen, Xuanrui Hong, Shuyuan Fu, Hong Zhang,  in CSE@SJTU
+Xinran Chen, Xuanrui Hong, Shuyuan Fu, Hong Zhang,  in CSE@SJTU
 
 ## **简介**
 
