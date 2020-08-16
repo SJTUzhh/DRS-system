@@ -1,0 +1,82 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.loumeng.Bluetooth"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="16" />
+9-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml
+10    <!-- <uses-sdk android:targetSdkVersion="23" /> -->
+11
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:10:5-74
+12-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:10:22-71
+13    <uses-permission android:name="android.permission.BLUETOOTH" />
+13-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:11:5-68
+13-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:11:22-65
+14    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+14-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:12:5-84
+14-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:12:22-81
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:13:5-81
+15-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:13:22-78
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:14:5-75
+16-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:14:22-73
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:15:5-66
+17-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:15:22-64
+18    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:16:5-75
+18-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:16:22-72
+19
+20    <application
+20-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:18:5-48:19
+21        android:debuggable="true"
+22        android:icon="@drawable/app_incon_bluetooth"
+22-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:19:9-53
+23        android:label="蓝牙串口助手"
+23-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:20:9-31
+24        android:theme="@style/ctivityTheme" >
+24-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:21:9-44
+25        <activity
+25-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:23:9-33:20
+26            android:name="com.loumeng.activity.BluetoothChat"
+26-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:24:13-62
+27            android:configChanges="orientation|keyboardHidden"
+27-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:25:13-63
+28            android:label="@string/app_name"
+28-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:26:13-45
+29            android:theme="@style/ctivityTheme" >
+29-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:27:13-48
+30            <intent-filter>
+30-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:29:13-32:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:30:17-69
+31-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:30:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:31:17-77
+33-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:31:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:35:9-39:59
+37            android:name="com.loumeng.Bluetooth.DeviceListActivity"
+37-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:36:13-68
+38            android:configChanges="orientation|keyboardHidden"
+38-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:37:13-63
+39            android:theme="@android:style/Theme.Dialog" />
+39-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:39:13-56
+40        <activity android:name="com.loumeng.Bluetooth.Root" />
+40-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:43:11-44
+40-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:43:21-41
+41        <activity android:name="com.loumeng.Bluetooth.Resolution" />
+41-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:44:11-50
+41-->F:\Computer Networks\change\myBluetooth\src\main\AndroidManifest.xml:44:21-47
+42    </application>
+43
+44</manifest>

@@ -1,0 +1,4 @@
+#Thu Dec 12 23:13:19 CST 2019
+base.0=D\:\\Documents\\Study\\Instrument_Lab\\winter\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Documents\\Study\\Instrument_Lab\\winter\\myBluetooth-master\\myproject\\myBluetooth\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

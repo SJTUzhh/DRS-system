@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:3:1-50:12
+INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:3:1-50:12
+INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:3:1-50:12
+INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:3:1-50:12
+INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:3:1-50:12
+INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:3:1-50:12
+INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:3:1-50:12
+	package
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:8:5-47
+INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:8:5-47
+INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:8:5-47
+INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:8:5-47
+INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:8:5-47
+	android:targetSdkVersion
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:8:15-44
+		INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:8:5-47
+		INJECTED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:10:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:12:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:16:22-72
+application
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:18:5-48:19
+	android:label
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:20:9-31
+	android:icon
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:19:9-53
+	android:theme
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:21:9-44
+activity#com.loumeng.activity.BluetoothChat
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:23:9-33:20
+	android:label
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:26:13-45
+	android:configChanges
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:25:13-63
+	android:theme
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:24:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:31:27-74
+activity#com.loumeng.Bluetooth.DeviceListActivity
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:35:9-39:59
+	android:configChanges
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:37:13-63
+	android:theme
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:36:13-68
+activity#com.loumeng.Bluetooth.Root
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:43:11-44
+	android:name
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:43:21-41
+activity#com.loumeng.Bluetooth.Resolution
+ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:44:11-50
+	android:name
+		ADDED from C:\Users\12043\Desktop\change\myBluetooth\src\main\AndroidManifest.xml:44:21-47
